@@ -7,3 +7,4 @@ while contador <= 5 :
         #for < contador> in range (valor inicial,valor final, passo)
         for I in range (1,20,2):
          print (I)
+// teste
