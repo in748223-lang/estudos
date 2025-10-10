@@ -1,6 +1,6 @@
 x = input ("digite algo")
 print (" é um nuemro? ", x .isnumeric ())
-print (" e um alfanumero (numeros e letras)? ", x . isalnum ())
+print (" e um alfa numero (numeros e letras)? ", x . isalnum ())
 print (" e um alfabetico (letras)?", x.isalpha())
 print (" esta em minusculo?" , x.islower())
 print ("esta em maiusculio?" , x.isupper())
